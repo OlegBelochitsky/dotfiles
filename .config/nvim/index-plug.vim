@@ -7,6 +7,7 @@ Plug 'vim-airline/vim-airline-themes'
 
 " other plugins
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'majutsushi/tagbar'
 Plug 'mbbill/undotree'
 Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' } "color thingy
 Plug 'airblade/vim-gitgutter'

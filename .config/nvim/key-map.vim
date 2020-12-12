@@ -6,7 +6,10 @@ let mapleader=" "
 " saving and quiting 
 nnoremap <leader>w :wa<CR>
 nnoremap <leader>q :q<CR>
- 
+
+" TagbarToggle key
+nnoremap <leader>t :TagbarToggle<CR>
+
 " UndotreeToggle key
 nnoremap <leader>u :UndotreeToggle<CR>
 
