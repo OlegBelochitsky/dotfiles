@@ -14,10 +14,11 @@ Plug 'airblade/vim-gitgutter'
 Plug 'junegunn/goyo.vim'
 Plug 'jiangmiao/auto-pairs'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+Plug 'tpope/vim-commentary'
 
 " better syntax highlight
 Plug 'justinmk/vim-syntax-extra'
-Plug 'sheerun/vim-polyglot'
+
 
 " nerdtree staff 
 Plug 'preservim/nerdtree'
