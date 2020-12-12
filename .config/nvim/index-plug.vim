@@ -12,8 +12,11 @@ Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' } "color thingy
 Plug 'airblade/vim-gitgutter'
 Plug 'junegunn/goyo.vim'
 Plug 'jiangmiao/auto-pairs'
-Plug 'justinmk/vim-syntax-extra'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
+
+" better syntax highlight
+Plug 'justinmk/vim-syntax-extra'
+Plug 'sheerun/vim-polyglot'
 
 " nerdtree staff 
 Plug 'preservim/nerdtree'
