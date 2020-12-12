@@ -1,6 +1,7 @@
 let g:goyo_width = 100
 
 function! s:goyo_enter()
+    set nu
     set rnu
 endfunction
 
