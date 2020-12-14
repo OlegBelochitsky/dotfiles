@@ -18,7 +18,7 @@ Plug 'tpope/vim-commentary'
 
 " better syntax highlight
 Plug 'justinmk/vim-syntax-extra'
-
+Plug 'sheerun/vim-polyglot'
 
 " nerdtree staff 
 Plug 'preservim/nerdtree'
