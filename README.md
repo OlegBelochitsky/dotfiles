@@ -1,4 +1,4 @@
-# dotfiles
+# dotfiles deprecated
 My Dotfiles
 deprecated
 deprecated
