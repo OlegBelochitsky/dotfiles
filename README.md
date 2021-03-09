@@ -1,2 +1,11 @@
 # dotfiles
 My Dotfiles
+deprecated
+deprecated
+deprecated
+deprecated
+deprecated
+deprecated
+deprecated
+deprecated
+deprecated
